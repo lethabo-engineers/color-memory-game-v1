@@ -1,6 +1,7 @@
 # Project 1: Color Memory Game (Arduino Mega) — Build Notes
 
 ## Build
+![Final build](./images/final_build_v1.jpg)
 
 ## Notes
 We are building a Simon-style color memory game on an Arduino Mega. 
