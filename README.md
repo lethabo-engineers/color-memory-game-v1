@@ -29,6 +29,4 @@ The game plays a growing LED pattern and the player repeats it using button inpu
 
 ## Future improvements
 - LCD upgrade (v2)
-- Difficulty scaling (faster playback each round)
-- Sound feedback (buzzer) if available
-- Cleaner enclosure / mounting
+
