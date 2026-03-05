@@ -11,7 +11,7 @@ The game plays a growing LED pattern and the player repeats it using button inpu
 
 ## Version info
 - **v1:** Core gameplay (LEDs + buttons)
-- **v2 (planned):** Add an LCD for score, prompts, and clearer game feedback
+- **v2:** Add an LCD for score, prompts, and clearer game feedback
 
 ## Documentation
 - 📄 [Getting Started (wiring + pin map + notes)](Getting-started.md)
