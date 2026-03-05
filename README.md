@@ -17,7 +17,6 @@ The game plays a growing LED pattern and the player repeats it using button inpu
 - 📄 [Getting Started (wiring + pin map + notes)](Getting-started.md)
 
 ## Demo / Photos
-> Add your photos in the `images/` folder, then update these links.
 
 ![Final build](./images/final_build.jpg)
 <!-- ![Wiring overview](./images/wiring_overview.jpg) -->
