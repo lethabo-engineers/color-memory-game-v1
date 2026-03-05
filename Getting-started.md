@@ -82,15 +82,3 @@ In code:
 
 ---
 
-## Troubleshooting
-
-### LEDs don’t light
-- Check LED polarity (anode/cathode)
-- Confirm resistors are in series
-- Confirm you’re using the correct pin numbers
-
-### Buttons trigger randomly / always pressed
-- Make sure you are using `INPUT_PULLUP`
-- Button must connect to **GND** (not 5V) when pressed
-
----
