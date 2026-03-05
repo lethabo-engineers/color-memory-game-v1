@@ -18,7 +18,7 @@ The game plays a growing LED pattern and the player repeats it using button inpu
 
 ## Demo / Photos
 
-![Final build](./images/final_build.jpg)
+![Final build](./images/final_build_v1.jpg)
 <!-- ![Wiring overview](./images/wiring_overview.jpg) -->
 
 ## Hardware (v1)
