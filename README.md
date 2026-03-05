@@ -19,7 +19,7 @@ The game plays a growing LED pattern and the player repeats it using button inpu
 ## Demo / Photos
 > Add your photos in the `images/` folder, then update these links.
 
-![Final build](images/FINAL_BUILD.jpg)
+![Final build](./images/final_build.jpg)
 ![Wiring overview](images/WIRING_OVERVIEW.jpg)
 
 ## Hardware (v1)
