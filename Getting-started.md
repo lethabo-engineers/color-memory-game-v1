@@ -48,10 +48,6 @@ For each button:
 - One side -> **GND**
 - Other side -> Arduino pin (D6–D9)
 
-In code:
-- `pinMode(buttonPin, INPUT_PULLUP);`
-- **Pressed = LOW**, **Released = HIGH**
-
 ---
 
 ## How the Game Logic Works (v1)
@@ -59,7 +55,7 @@ In code:
 - Each round it adds one new random step
 - LEDs play the full sequence
 - Player repeats the sequence via buttons
-- If wrong input -> game over; score = last correct round
+- If wrong input -> game over lights flash
 
 ---
 
