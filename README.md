@@ -1,32 +1,36 @@
 # Color Memory Game — v1 (Arduino Mega)
 
-A Simon-style color memory game built on an **Arduino Mega 2560** using **LEDs + buttons**.  
-The game plays a growing LED pattern and the player repeats it using button inputs.
+A Simon-style color memory game built on an **Arduino Mega 2560** using **LEDs, buttons, and a buzzer**.  
+The game generates a growing pattern using LEDs, and the player must repeat the sequence correctly using button inputs.
 
 ## What it does
-- Generates a random LED sequence (pattern grows each round)
-- Plays the pattern using LEDs
+- Generates a random LED sequence that grows each round
+- Plays the sequence using LEDs
+- Uses a buzzer for audio feedback
 - Reads player input from buttons
-- Ends the game on a wrong input (score = highest round reached)
+- Ends the game when the player enters a wrong input
 
 ## Version info
-- **v1:** Core gameplay (LEDs + buttons)
-- **v2:** Add an LCD for score, prompts, and clearer game feedback
+- **v1:** Core gameplay using LEDs, buttons, and buzzer
+- **v2:** LCD upgrade for score display, prompts, and clearer game feedback
 
 ## Documentation
 - 📄 [Getting Started (wiring + pin map + notes)](Getting-started.md)
+- 💻 [Arduino Code](./color-memory-game-v1.ino)
 
 ## Demo / Photos
-
 ![Final build](./images/final_build_v1.jpg)
 <!-- ![Wiring overview](./images/wiring_overview.jpg) -->
 
 ## Hardware (v1)
 - Arduino Mega 2560
-- LEDs + resistors (e.g., 220Ω)
-- Push buttons
-- Breadboard + jumper wires
+- 4 LEDs
+- 4 current-limiting resistors (e.g. 220Ω)
+- 4 push buttons
+- Passive buzzer
+- Breadboard
+- Jumper wires
 
 ## Future improvements
-- LCD upgrade (v2)
+- Add an LCD screen
 
