@@ -59,16 +59,6 @@ For each button:
 
 ---
 
-## Code Structure (suggested)
-- `setup()` initializes pins + resets game state
-- `loop()` runs the main game state machine:
-  - SHOW_PATTERN
-  - READ_INPUT
-  - CHECK_INPUT
-  - NEXT_ROUND / GAME_OVER
-
----
-
 ## Upload & Test
 1. Upload the `.ino` file
 2. Confirm each LED turns on
