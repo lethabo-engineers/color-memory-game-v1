@@ -18,6 +18,7 @@ The game generates a growing pattern using LEDs, and the player must repeat the 
 - 📄 [Getting Started (wiring + pin map + notes)](Getting-started.md)
 - 💻 [Arduino Code](./color-memory-game-v1.ino)
 
+[Watch the demo on TikTok](https://www.tiktok.com/@l3thabo_o)
 ## Demo / Photos
 ![Final build](./images/final_build_v1.jpg)
 <!-- ![Wiring overview](./images/wiring_overview.jpg) -->
