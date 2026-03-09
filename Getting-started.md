@@ -11,7 +11,7 @@ This doc covers the full hardware setup, pin mapping, and how the code is struct
 ## Hardware Overview
 **Main board:** Arduino Mega 2560  
 **Inputs:** Push buttons (player input)  
-**Outputs:** LEDs (pattern display)  
+**Outputs:** LEDs (pattern display), buzzer (sound when click)  
 
 ---
 
